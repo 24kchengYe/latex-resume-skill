@@ -1,3 +1,4 @@
+\![Visitors](https://visitor-badge.laobi.icu/badge?page_id=24kchengYe.latex-resume-skill)
 # LaTeX Resume Skill for Claude Code
 
 A Claude Code skill for creating and iteratively refining professional LaTeX resumes, with deep support for **bilingual Chinese/English academic CVs** targeting tech/AI internships.
